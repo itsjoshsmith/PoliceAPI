@@ -33,7 +33,7 @@ SearchLocation location = new SearchLocation("Hackney", -0.06086237552047594, 51
 
 The search location object will hold majority of the information that the API will supply, such as a list of crimes and stop and searches.
 The first parameter is a name / alias and has no relevance to the api calls themselves, the three parameters following are the important ones. The second
-parameter is the longitude of the location, the third parameter is the latitude and the forth parameter is the force name that governs the area, you can use the
+parameter is the longitude of the location, the third parameter is the latitude and the fourth parameter is the force name that governs the area, you can use the
 **GetForces()** call to retrieve a list of the available forces.
 
 ### Update the location
