@@ -1,5 +1,5 @@
 # PoliceAPI
-A wrapper for the UK government police data API, to fetch crime data for a certain location and surrounding areas.
+A library that pulls policing data from the UK government's api.
 
 The project depends on [RestSharp](https://github.com/restsharp/RestSharp) to do the leg work of handling the API requests and responses.
 
